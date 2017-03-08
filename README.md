@@ -9,3 +9,19 @@
 - [Harold Treen's coding problems](https://github.com/haroldtreen/coding-problems)
 - [Javascript garden of knowledge](https://bonsaiden.github.io/JavaScript-Garden/)
 
+### Long-term learning commitments
+
+- [Alexs Essex's Info Sec](http://essex.cc/teaching/Information-Security/)
+- [High Perf Browser Networking](https://hpbn.co)
+
+### Useful, Useable Resources
+
+CSS
+
+- [SVG background patterns](http://www.heropatterns.com)
+- [Brand icons](https://simpleicons.org)
+
+### Sweet Tools
+
+- [Automated visual testing](https://percy.io)
+
