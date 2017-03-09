@@ -1,6 +1,12 @@
 ## Hezzer's Bookmarks
 
-### Job Prep
+[Job Prep](#job-prep)  
+[Long-term learning commitments](#long-term-learning-commitments)  
+[Useful, useable resources](#useful-useable-resources)  
+[Sweet tools](#sweet-tools)  
+[Accessibility](#accessibility)  
+
+#### Job Prep
 
 - [A test driven approach to assessing JS skills](https://github.com/rmurphey/js-assessment)
 - [Front end Dev handbook](https://www.frontendhandbook.com/practice/interview-q.html)
@@ -9,19 +15,23 @@
 - [Harold Treen's coding problems](https://github.com/haroldtreen/coding-problems)
 - [Javascript garden of knowledge](https://bonsaiden.github.io/JavaScript-Garden/)
 
-### Long-term learning commitments
+#### Long-term learning commitments
 
 - [Alexs Essex's Info Sec](http://essex.cc/teaching/Information-Security/)
 - [High Perf Browser Networking](https://hpbn.co)
 
-### Useful, Useable Resources
+#### Useful, Useable Resources
 
 CSS
 
 - [SVG background patterns](http://www.heropatterns.com)
 - [Brand icons](https://simpleicons.org)
 
-### Sweet Tools
+#### Sweet Tools
 
 - [Automated visual testing](https://percy.io)
+- [Github's Scientist](https://github.com/github/scientist) - for slow, managed deployment of replacement code
 
+#### Accessibility
+
+- [Linting HTML by using CSS](https://bitsofco.de/linting-html-using-css/)
